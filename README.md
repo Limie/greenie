@@ -9,9 +9,9 @@ Node: v0.8.14
 
 ####Upon realizing that the blogosphere was a place I wanted to be
 
-I discovered Blogspot, a Google run tool for bloggers. Ok! Great! I write a blog, you can actually see it  [here](https://github.com/Limie/marty-nerdland/blob/master/articles/notion-wasted-vote-american-traitors-take-new-form.markdown "Title") inline link, 
+I discovered Blogspot, a Google run tool for bloggers. Ok! Great! I write a blog, you can actually see it  [here](https://github.com/Limie/marty-nerdland/blob/master/articles/notion-wasted-vote-american-traitors-take-new-form.markdown "Title") 
 and how it's not on blogspot.  It turns out that in the the short time that my blog was posted it generated almost 20 
-hits. Sounds like a good thing, until my highly inqusitive socially consciecnce side kicks in.
+hits. Sounds like a good thing, until my highly inqusitive socially conscious side kicks in.
 
 #### I don't know if this is a big deal but it feels like one.
 
